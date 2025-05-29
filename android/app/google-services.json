@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517871356172",
+    "project_id": "insto-fda98",
+    "storage_bucket": "insto-fda98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517871356172:android:8491888492848e4c226129",
+        "android_client_info": {
+          "package_name": "com.insto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQceDDtwf6Vgao3IV_37MjL2rvKqQYxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
