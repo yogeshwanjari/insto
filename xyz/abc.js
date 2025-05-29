@@ -1,12 +1,14 @@
-import { View, Text } from 'react-native'
-import React from 'react'
+import { Text, View } from 'react-native'
+import React, { Component } from 'react'
 
-const abc = () => {
-  return (
-    <View>
-      <Text>abc</Text>
-    </View>
-  )
+export class abc extends Component {
+  render() {
+    return (
+      <View>
+        <Text>abc</Text>
+      </View>
+    )
+  }
 }
 
 export default abc
